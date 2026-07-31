@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225220111
+# Name:K.SUNDARESH
+# Date:30.07.2026
 
 
 # AIM:
@@ -89,11 +89,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
+<img width="747" height="560" alt="image" src="https://github.com/user-attachments/assets/8bec04cc-fff8-4baa-b936-447bc1bfae4e" />
 
 
 # ACTIVITY DIAGRAM:
@@ -107,9 +103,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
-
-
-
+<img width="1068" height="732" alt="image" src="https://github.com/user-attachments/assets/7743a5cf-c93e-4fda-99b1-ec7566791698" />
 
 
 # SEQUENCE DIAGRAM
@@ -118,6 +112,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="870" height="881" alt="image" src="https://github.com/user-attachments/assets/0daa2e8e-2096-49fb-8b5b-3c7b9d55fc30" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
@@ -128,10 +123,7 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
-
-
-
-
+<img width="1061" height="806" alt="image" src="https://github.com/user-attachments/assets/22af598e-5a4c-42d2-a7ab-25b9014238e6" />
 
 
 # RESULT
